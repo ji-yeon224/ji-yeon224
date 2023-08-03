@@ -1,7 +1,7 @@
 
 
 <!--![😈jiyeon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ji-yeon224&show_icons=true&theme=rose_pine)-->
-🍎iOS Developer
+🍎 iOS Developer
 
 
 ![👩🏻‍💻jiyeon Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-yeon224&layout=compact&theme=panda)
