@@ -1,5 +1,7 @@
-### Hi there 👋
+<!--![😈jiyeon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ji-yeon224&show_icons=true&theme=rose_pine)-->
 
+![👩🏻‍💻jiyeon Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-yeon224&layout=compact&theme=darcula)
+<!--<div align="center">![jiyeon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ji-yeon224&show_icons=true&theme=rose_pine)</div>
 <!--
 **ji-yeon224/ji-yeon224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
