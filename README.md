@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIkit&logoColor=white">&nbsp
 </div></br>
 
-![👩🏻‍💻jiyeon's github stats](https://github-readme-stats.vercel.app/api?username=ji-yeon224&show_icons=true&theme=transparent)
-![👩🏻‍💻jiyeon Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-yeon224&layout=compact&theme=transparent)
+![👩🏻‍💻jiyeon's github stats](https://github-readme-stats.vercel.app/api?username=ji-yeon224&bg_color=60,000000,&title_color=0562A8&text_color=000000)
+![👩🏻‍💻jiyeon Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-yeon224&layout=compact&bg_color=60,000000,&title_color=000000&text_color=000000)
 
 <!--![jiyeon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ji-yeon224&show_icons=true&theme=rose_pine)-->
 
