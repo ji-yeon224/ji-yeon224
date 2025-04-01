@@ -2,13 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=93d8e1&height=180&text=JIYEON&animation=&fontColor=000000&fontSize=60" />
 <!--![😈jiyeon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ji-yeon224&show_icons=true&theme=rose_pine)-->
 🍎 iOS Developer
-</br></br>
- <div style="margin: ; text-align: left;" "text-align: left;"> 
-    <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIkit&logoColor=white">&nbsp
-</div></br>
 
 ![👩🏻‍💻jiyeon's github stats](https://github-readme-stats.vercel.app/api?username=ji-yeon224&bg_color=60,000000,&title_color=0562A8&text_color=000000)
 ![👩🏻‍💻jiyeon Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-yeon224&layout=compact&bg_color=60,000000,&title_color=000000&text_color=000000)
